@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@statics/*": ["public/*"],
+      "@components/*": ["src/components/*"],
+      "@layouts/*": ["src/layouts/*"],
+      "@infra/*": ["src/infra/*"],
+      "@styles/*": ["src/styles/*"],
+      "stitches": ["stitches.config.ts"]
+    }
+  }
+}
