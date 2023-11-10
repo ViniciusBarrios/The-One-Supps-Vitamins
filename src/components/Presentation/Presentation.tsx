@@ -15,7 +15,6 @@ const productInformations = [
   "26 Ingredientes",
   "Vitaminas",
   "Minerais",
-  "Minerais",
   "Único do mercado com fitoquímicos",
 ];
 
