@@ -25,7 +25,7 @@ const stamps = [
 
 const kits = [
   {
-    link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SZB3AUZ34A8V4",
+    link: "https://www.theonesupps.com.br/it99z3bu1-healthy-vitamins-90-veg-caps-60-vitaminas-naturais",
     discount: "10%",
     quantity: "1 Frasco",
     tratamentDuration: "Para 30 dias",
@@ -35,7 +35,7 @@ const kits = [
       "De <span class='from'>R$ 94,90</span> por <span>R$ 85,41</span> à vista ou <span>3x</span> de <span>28,47</span>",
   },
   {
-    link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NTBZEYPS8K7V6",
+    link: "https://www.theonesupps.com.br/sbbbyu5bk-6-x-healthy-vitamins-90-veg-caps-60-vitaminas-naturais",
     discount: "30%",
     quantity: "6 Frascos",
     tratamentDuration: "Para 6 meses",
@@ -46,7 +46,7 @@ const kits = [
       "De <span class='from'>R$ 569,40</span> por <span>R$ 398,58</span> à vista ou <span>3x</span> de <span>132,86</span>",
   },
   {
-    link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QG9V2N4AJ4V54",
+    link: "https://www.theonesupps.com.br/nad2k46yq-3-x-healthy-vitamins-90-veg-caps-60-vitaminas-naturais",
     discount: "25%",
     quantity: "3 Frascos",
     tratamentDuration: "Para 3 meses",
